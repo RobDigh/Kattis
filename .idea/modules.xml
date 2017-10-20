@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kattis.iml" filepath="$PROJECT_DIR$/Kattis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quadrantSelection/quadrantSelection.iml" filepath="$PROJECT_DIR$/quadrantSelection/quadrantSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2/quadrantSelection.iml" filepath="$PROJECT_DIR$/r2/quadrantSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2/r2.iml" filepath="$PROJECT_DIR$/r2/r2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taketwostones/taketwostones.iml" filepath="$PROJECT_DIR$/taketwostones/taketwostones.iml" />
+    </modules>
+  </component>
+</project>
